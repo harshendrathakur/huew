@@ -74,7 +74,7 @@ public class DiscoverTest extends Base{
   @AfterMethod
   public void afterMethod() {
 	 
-	  sendPDFReportByGMail("seleniumbase@gmail.com", "selesele", "harshendra.thakur@gmail.com", "PDF Report", "");
+	  sendPDFReportByGMail("seleniumbase@gmail.com", "enterPassword", "harshendra.thakur@gmail.com", "PDF Report", "");
 
   }
 /**
